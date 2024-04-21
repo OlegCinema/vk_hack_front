@@ -8,12 +8,11 @@ export default function IndexPage() {
     <section className="container grid items-center gap-6 pb-8 pt-6 md:py-10">
       <div className="flex max-w-[980px] flex-col items-start gap-2">
         <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
-          Beautifully ва components <br className="hidden sm:inline" />
-          built with Radix UI and Tailwind CSS.
+          ЗДЕСЬ БУДЕТ СУПЕР КРУТАЯ ЦИТАТА <br className="hidden sm:inline" />
+          И ВСЕХ ПОБЕДИТЕЛЕЙ ПОЗДРАВЛЯЕМ
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground">
-          Accessible and customizable components that you can copy and paste
-          into your apps. Free. Open Source. And Next.js 13 Ready.
+          НАША СТАБИЛЬНОСТЬ ЗАЛОГ ВАШЕГО УСПЕХА
         </p>
       </div>
       <div className="flex gap-4">
