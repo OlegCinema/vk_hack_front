@@ -50,7 +50,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Textarea } from "@/components/ui/textarea"
 
-const url = "http://127.0.0.1:5000/process_text"
+const url = "https://b594-206-189-63-130.ngrok-free.app/process_text"
 export default function TestModels() {
   // useState
   const [isResulted, setIsResulted] = useState(false)
